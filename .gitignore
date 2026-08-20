@@ -1,0 +1,14 @@
+# Local runtime and editor files
+.DS_Store
+Thumbs.db
+*.log
+work/
+generated_candidates/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Tyrano save/export artifacts
+data/system/save/
+*.tpatch

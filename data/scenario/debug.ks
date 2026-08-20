@@ -1,0 +1,16 @@
+*debug_menu
+[cm]
+[eval exp="f.debug=true"]
+[ptext text="DEVELOPER DEBUG" x=60 y=50 size=30 color=0xff6677]
+[glink text="第1章" storage="chapter_01.ks" x=80 y=140 width=250]
+[glink text="第2章" storage="chapter_02.ks" x=360 y=140 width=250]
+[glink text="第3章" storage="chapter_03.ks" x=640 y=140 width=250]
+[glink text="第4章" storage="chapter_04.ks" x=80 y=230 width=250]
+[glink text="第5章" storage="chapter_05.ks" x=360 y=230 width=250]
+[glink text="最終章" storage="chapter_06.ks" x=640 y=230 width=250]
+[glink text="好感度・信頼を最大化" target="*debug_max" x=220 y=350 width=700]
+[s]
+*debug_max
+[eval exp="f.haruka=99;f.mizuki=99;f.risa=99;f.saya=99;f.reina=99;f.team_trust=99"]
+変数を最大化しました。[p]
+[jump target="*debug_menu"]

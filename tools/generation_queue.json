@@ -1,0 +1,28 @@
+[
+  {
+    "asset_id": "bg_title",
+    "workflow": "tools/workflows/prefect_pony_api.json",
+    "seed": 21890001,
+    "max_retries": 2,
+    "timeout_sec": 360
+  },
+  {
+    "asset_id": "bgm_title",
+    "workflow": "tools/workflows/stable_audio_api.json",
+    "seed": 21891001,
+    "max_retries": 2,
+    "timeout_sec": 360
+  },
+  {
+    "asset_id": "bg_dock",
+    "workflow": "tools/workflows/prefect_pony_api.json",
+    "seed": 21890013,
+    "width": 1920,
+    "height": 1080,
+    "filename_prefix": "star_guardians/bg_dock_v3",
+    "prompt": "score_9, score_8_up, source_anime, environment concept art, scenery focus, background only, completely deserted automated spacecraft hangar inside an orbital station, enormous empty floor, sealed geometric blast doors, overhead mechanical rails, cargo markings without letters, blue-white recessed guidance lights, deep perspective, symmetrical wide establishing shot, pristine science fiction architecture, no living beings, no figures, no characters, no vehicles with pilots, 16:9",
+    "negative": "1girl, 1boy, solo, people, person, human, humanoid, man, woman, girl, boy, child, soldier, officer, crew, worker, crowd, silhouette, face, head, body, hands, legs, character, uniform, portrait, standing, walking, sitting, low quality, blurry, text, letters, numbers, logo, watermark, signature, nsfw",
+    "max_retries": 2,
+    "timeout_sec": 360
+  }
+]

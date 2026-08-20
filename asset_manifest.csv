@@ -1,0 +1,6 @@
+asset_id,category,chapter,scene,character,variant,target_path,width,height,duration_sec,source,status,prompt_ref,workflow_ref,seed,notes
+bg_title,background,common,title,,,data/bgimage/bg_title.png,1672,941,,imagegen,generated,docs/asset_report.md,,21890001,no embedded text
+bg_dock,background,1,1,,,data/bgimage/bg_dock.png,1920,1080,,prefect_pony,generated,docs/asset_report.md,tools/workflows/prefect_pony_api.json,21890013,third candidate accepted; first two rejected for people
+bg_chapters,background,all,all,,,data/bgimage/bg_title.png,1672,941,,temporary,review,docs/asset_report.md,tools/workflows/prefect_pony_api.json,21890002,replace per scene when API returns
+ch_characters,standing,all,all,all,expressions,data/fgimage/,1024,1536,,generate,needed,docs/asset_report.md,tools/workflows/prefect_pony_api.json,21890100,canonical references not supplied
+bgm_title,bgm,common,title,,,data/bgm/bgm_title.ogg,,,90,stable_audio,generated,docs/asset_report.md,tools/workflows/stable_audio_api.json,21891001,normalized to -18 LUFS and encoded Ogg Vorbis
