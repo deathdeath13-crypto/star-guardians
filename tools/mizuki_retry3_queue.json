@@ -1,0 +1,12 @@
+[
+  {
+    "asset_id": "ch_mizuki",
+    "workflow": "tools/workflows/prefect_pony_character_api.json",
+    "seed": 21894221,
+    "width": 832,
+    "height": 1216,
+    "filename_prefix": "star_guardians/full/ch_mizuki_v3",
+    "prompt": "score_9, score_8_up, source_anime, solo, single subject, exactly one adult Japanese woman age 28, slender calm female military captain, very long straight black hair tied into one neat low ponytail, blue eyes, serious composed expression, practical fitted navy blue and white science fiction officer uniform with cyan piping and trousers, symmetrical full body standing front view, arms relaxed at sides, plain white studio background, visual novel character sprite",
+    "negative": "group, trio, two people, three people, multiple people, man, male, boy, duplicate person, extra character, short hair, bob cut, loose hair, child, skirt, dress, gown, cape, weapon, cropped head, cropped feet, action pose, scenery, text, logo, watermark, nsfw, cleavage, extra limbs, bad hands"
+  }
+]

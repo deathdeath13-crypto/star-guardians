@@ -1,0 +1,10 @@
+{
+  "1": {"class_type": "CheckpointLoaderSimple", "inputs": {"ckpt_name": "prefectPonyXL_v6.safetensors"}},
+  "2": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["1", 1], "text": "score_9, score_8_up, source_anime, full body character sprite"}},
+  "3": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["1", 1], "text": "score_6, score_5, score_4, multiple people, cropped, background scenery, text, logo, watermark, nsfw, nude, bad hands, extra limbs"}},
+  "4": {"class_type": "EmptyLatentImage", "inputs": {"width": 832, "height": 1216, "batch_size": 1}},
+  "5": {"class_type": "KSampler", "inputs": {"model": ["1", 0], "positive": ["2", 0], "negative": ["3", 0], "latent_image": ["4", 0], "seed": 21892001, "steps": 24, "cfg": 7, "sampler_name": "dpmpp_sde", "scheduler": "normal", "denoise": 1}},
+  "6": {"class_type": "VAEDecode", "inputs": {"samples": ["5", 0], "vae": ["1", 2]}},
+  "7": {"class_type": "Image Rembg (Remove Background)", "inputs": {"images": ["6", 0], "transparency": true, "model": "isnet-anime", "post_processing": true, "only_mask": false, "alpha_matting": false, "alpha_matting_foreground_threshold": 240, "alpha_matting_background_threshold": 10, "alpha_matting_erode_size": 10, "background_color": "none"}},
+  "8": {"class_type": "SaveImage", "inputs": {"images": ["7", 0], "filename_prefix": "star_guardians/chara"}}
+}

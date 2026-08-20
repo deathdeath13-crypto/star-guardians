@@ -9,49 +9,83 @@
 [cm]
 [text text="1-1 星の門" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_space.png" time="500"]
+
+[freeimage layer=1]
 西暦二一八九年。人類は星々へ手を伸ばし、その手を噛みちぎる何かと出会った。[p]
 未知生命体ヴォイド。会話は成立せず、目的も分からない。残された記録は、破壊された船と、途切れた救難信号だけ。[p]
 その脅威に対抗する最前線が、巨大宇宙要塞アーク・オリジン。そして今日、俺――津田花は、そこへ配属される。[p]
+[freeimage layer=1]
 #船内AI
 「接舷シーケンスを開始します。ガーディアン候補生は第三ドックへ」[p]
+[freeimage layer=1]
 #津田花
 「候補生、か。採用通知には正式隊員って書いてあったけどな」[p]
+[freeimage layer=1]
 窓の向こうで、要塞の外壁が視界を覆う。都市ひとつを丸ごと宇宙へ打ち上げたような威圧感だ。[p]
 通信に、一瞬だけノイズが混じった。[p]
+[freeimage layer=1]
 #不明通信
 「――きこ……ますか。わたし……たちは……」[p]
+[freeimage layer=1]
 #津田花
 「今のは？」[p]
+[freeimage layer=1]
 #船内AI
 「該当する通信はありません」[p]
+[freeimage layer=1]
 聞き間違いにしては、声が近すぎた。[p]
 *scene_1_2
 [cm]
 [text text="1-2 変な新人" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_dock.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「津田花？」[p]
+[freeimage layer=1]
 #津田花
 「はい」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「よかった。『つだ・はな』さんだったら、初対面で盛大にやらかすところだった」[p]
+[freeimage layer=1]
 #津田花
 「津田花で、つだげ。よく間違われる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「つだげ……本当に？　新人を試す伝統とかじゃなくて？」[p]
+[freeimage layer=1]
 #津田花
 「俺も戸籍を見たときは疑った」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「ふふっ。変な新人」[p]
+[freeimage layer=1]
 栗色のポニーテールが、笑い声に合わせて揺れる。彼女は遥。ガーディアンの狙撃手で、俺の案内役らしい。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「荷物、それだけ？」[p]
+[freeimage layer=1]
 #津田花
 「逃げるときに軽いほうがいい」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「初日から逃げる気なんだ」[p]
+[freeimage layer=1]
 #津田花
 「生き残る気だよ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「……やっぱり、変な新人」[p]
 [cm]
@@ -67,155 +101,276 @@
 *choice_1_1_join
 [cm]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「じゃ、隊長に会いに行こう。遅刻すると、宇宙より冷たい目で見られるから」[p]
 *scene_1_3
 [cm]
 [text text="1-3 五人のガーディアン" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_briefing.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「新人、前へ」[p]
+[freeimage layer=1]
 #津田花
 「津田花です。本日付で配属されました」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「私は美月。隊長だ。ここでは肩書より判断が命を救う。疑問があれば口にしろ。黙ったまま死ぬことだけは許さない」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「堅い堅い。沙耶だ。重い物を壊す担当。お前が軽い物なら、吹っ飛んだとき拾ってやる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「理沙。機関と兵器と端末。……人間は、担当外」[p]
+[freeimage layer=1]
 #津田花
 「故障したら相談していい？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「人間として故障した場合は玲奈へ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「玲奈よ。研究主任。壊れる前に来てくれたほうが助かるわ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「私はもう自己紹介した。『変な新人』で登録済み」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「初日であだ名持ちか。出世が早いな」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「津田花。訓練成績は平均。射撃も操艦も突出なし。それでも選抜局は、心理適性を最高評価した」[p]
+[freeimage layer=1]
 #津田花
 「自分でも理由は分かりません」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「なら、任務で示せ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「人を理解する能力は、数字に出にくい。でもこの場所では、兵器より希少かもしれない」[p]
+[freeimage layer=1]
 玲奈の視線が、一瞬だけ俺の顔の奥を探った。知っている人間を見る目だった。[p]
 *scene_1_3a
 [cm]
 [text text="1-3A 居住区の六号室" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_quarters.png" time="500"]
+
+[freeimage layer=1]
 割り当てられた六号室は、ベッドと机と収納を押し込めば、それ以上の個性を置く余地がない部屋だった。[p]
 壁の端末へ認証票をかざす。[p]
+[freeimage layer=1]
 #室内AI
 「入居者、ツダ・ハナ。登録を完了しました」[p]
+[freeimage layer=1]
 #津田花
 「津田花。つだげ」[p]
+[freeimage layer=1]
 #室内AI
 「訂正候補が見つかりません」[p]
+[freeimage layer=1]
 #津田花
 「初日からお前までか」[p]
 ; [チャイム]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「入っていい？」[p]
+[freeimage layer=1]
 #津田花
 「どうぞ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「駄目。軍用居住区でその返事は不用心。相手を確認してから開けて」[p]
+[freeimage layer=1]
 #津田花
 「遥の声だったから」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「声を真似るヴォイドだっているかもしれないよ」[p]
+[freeimage layer=1]
 #津田花
 「じゃあ質問。ドックで最初に俺を何と呼んだ？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「変な新人」[p]
+[freeimage layer=1]
 #津田花
 「本人だ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「判定基準、それでいいんだ……」[p]
+[freeimage layer=1]
 遥は毛布と小さなケースを抱えていた。ケースには簡素な食器、端末ケーブル、非常用ライト。生活を始めるための最低限が詰まっている。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「新人セット。購買区画は明日案内するから、今日はこれで生き延びて」[p]
+[freeimage layer=1]
 #津田花
 「生存確率が上がった」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「理沙の六十八パーセント、気にしてた？」[p]
+[freeimage layer=1]
 #津田花
 「残り三十二パーセントの死因が気になった」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「たぶん半分は、隊長の話を聞かなかった人」[p]
+[freeimage layer=1]
 #津田花
 「もう半分は？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「沙耶と飲み比べした人」[p]
+[freeimage layer=1]
 遥は部屋を見回し、収納の上に置いた古い金属製の認識票へ目を止めた。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「それ、家族の？」[p]
+[freeimage layer=1]
 #津田花
 「父の遺品。民間船の事故で死んだって聞いた」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「……そう」[p]
+[freeimage layer=1]
 #津田花
 「知ってる？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「古い軍用品に見えただけ。ごめん、変なこと聞いた」[p]
+[freeimage layer=1]
 さっきまで軽かった声が、一瞬だけ沈んだ。遥は認識票に触れず、ケースの蓋を閉めた。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「明日は〇六三〇に訓練区画。遅れたら美月が怖い」[p]
+[freeimage layer=1]
 #津田花
 「宇宙より？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「宇宙は睨まないから」[p]
 *scene_1_3b
 [cm]
 [text text="1-3B 無重力訓練" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_training.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「重力制御停止。全員、固定解除」[p]
+[freeimage layer=1]
 床が床であることをやめた。胃が一拍遅れて身体を追いかける。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「お、新人。いい顔だ」[p]
+[freeimage layer=1]
 #津田花
 「どんな顔？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「地面に裏切られた顔」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「手すりを蹴りすぎ。回転角速度、毎秒一・二ラジアン」[p]
+[freeimage layer=1]
 #津田花
 「止め方は？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「壁にぶつかる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「理沙、それは止まり方じゃなくて事故！」[p]
+[freeimage layer=1]
 遥が俺の腕を取り、噴射パックを短く吹かした。回転が止まり、代わりに二人でゆっくり漂う。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「目標を決めて、身体じゃなく視線を先に向ける。行きたい場所を見るの」[p]
+[freeimage layer=1]
 #津田花
 「遥を見てればいい？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「今は訓練中！」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「おーい、狙撃手の照準が赤くなってるぞ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「うるさい！」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「私語はそこまで。次は救助訓練。負傷者役は津田花」[p]
+[freeimage layer=1]
 #津田花
 「配属二日目で負傷確定ですか」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「理沙の計算を実証する」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「私は七割と言った」[p]
+[freeimage layer=1]
 冗談のように聞こえたが、訓練が始まると全員の空気が変わった。[p]
 沙耶が瓦礫を押さえ、美月が経路を決め、理沙が酸素残量を読み、遥が遠方の破損箇所を撃ち抜く。玲奈は負傷判定を見て、最短の処置を指示する。[p]
 五人の動きは、長い時間をかけて組み上げられた一つの機械のようだった。[p]
 そこへ入る隙間を、俺はまだ持っていない。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「津田花。今、何を考えた」[p]
+[freeimage layer=1]
 #津田花
 「自分が足を引っ張ると」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「正しい。では、どうする」[p]
 [cm]
@@ -231,72 +386,127 @@
 *choice_1_2_join
 [cm]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「完成した隊に新人を足せば、一度は弱くなる。お前だけの責任ではない。六人で組み直す」[p]
+[freeimage layer=1]
 #津田花
 「六人で」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「だから勝手に一人で追いつこうとするな。追いつけないときは言え」[p]
+[freeimage layer=1]
 冷たい人だと思っていた。その言葉は、不器用なくらい温かかった。[p]
 *scene_1_3c
 [cm]
 [text text="1-3C 射撃シミュレーター" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_shooting.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「成績、見せて」[p]
+[freeimage layer=1]
 #津田花
 「平均点」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「見れば分かる。見事なくらい全部平均」[p]
+[freeimage layer=1]
 #津田花
 「安定してると言ってほしい」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「じゃあ、安定して普通」[p]
+[freeimage layer=1]
 遥は俺の後ろに立ち、肩の角度を直した。狙撃手の指は細いが、触れ方に迷いがない。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「標的を敵だと思わないで。敵だと思うと、撃つか撃たないかで迷う。必要な場所へ、必要な力を届けるだけ」[p]
+[freeimage layer=1]
 #津田花
 「遥は迷わない？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「迷わないように、そう考えるの」[p]
+[freeimage layer=1]
 #津田花
 「それは迷ってる人の答えだ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「……心理適性って、そういうのまで見える？」[p]
+[freeimage layer=1]
 #津田花
 「見えない。遥が分かりやすい」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「撃っていい？　標的じゃなくて津田花を」[p]
+[freeimage layer=1]
 #津田花
 「非殺傷なら」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「条件をつければいいと思ってる？」[p]
+[freeimage layer=1]
 笑いながら、遥は俺の照準を数ミリだけ右へ動かした。[p]
 引き金を引く。初めて中央へ当たった。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「ほら。ちゃんと届いた」[p]
+[freeimage layer=1]
 #津田花
 「先生がよかった」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「素直なのも変」[p]
 *scene_1_4
 [cm]
 [text text="1-4 最初の夜" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_cafeteria.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「配属祝いだ。飲め」[p]
+[freeimage layer=1]
 #津田花
 「勤務中では？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「栄養飲料だ。味が祝う気ゼロなだけでな」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「新人の生存確率、現状六十八パーセント」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「初日の食卓で言う数字じゃないよ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「励ますなら、四捨五入して七割」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「余計に悪い」[p]
+[freeimage layer=1]
 笑いが起こる。美月まで僅かに口元を緩めた。[p]
 [cm]
 選択肢を選んでください。[p]
@@ -311,119 +521,215 @@
 *choice_1_3_join
 [cm]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「地球、見える？」[p]
+[freeimage layer=1]
 #津田花
 「小さいな」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「ここから見ると、国境も基地も見えない。守る理由だけは、すごく分かりやすくなる」[p]
+[freeimage layer=1]
 #津田花
 「遥は何を守りたい？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「質問で返すの、ずるくない？」[p]
+[freeimage layer=1]
 #津田花
 「答えたくない顔をしたから」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「……そういうとこ。変な新人」[p]
+[freeimage layer=1]
 遥は地球ではなく、その反対側の暗闇を見ていた。[p]
 *scene_1_4a
 [cm]
 [text text="1-4A 六人の食卓" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_cafeteria.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「質問大会を始める。新人、恋人は？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「沙耶」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「チームワークには相互理解が必要だろ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「その質問で得られる情報は限定的」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「じゃあ理沙、代案」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「端末の暗号鍵を定期変更してる？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「食卓で聞く内容じゃない！」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「津田花が困っているわ」[p]
+[freeimage layer=1]
 #津田花
 「どちらから答えるべきか迷ってます」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「恋人からだな」[p]
+[freeimage layer=1]
 #津田花
 「いません」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「よし、全員に可能性がある」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「ない。新人をからかうな」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「隊長、否定が早すぎない？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「遥、そこを問題視するの？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「一般論！」[p]
+[freeimage layer=1]
 ガーディアンは英雄の集まりではなかった。食事の好みで揉め、勤務表に文句を言い、誰かが笑えばつられて笑う。[p]
 この普通さを守るために、彼女たちは戦っているのかもしれない。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「では私から。地球で最後に見た夢は？」[p]
+[freeimage layer=1]
 #津田花
 「駅に遅れる夢。走っても走っても、ホームが遠くなる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「宇宙まで来ても遅刻を心配してるんだ」[p]
+[freeimage layer=1]
 #津田花
 「遥は？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「帰る夢」[p]
+[freeimage layer=1]
 #津田花
 「どこへ？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「……知らない場所」[p]
+[freeimage layer=1]
 玲奈だけが、その答えに驚かなかった。[p]
 *scene_1_5
 [cm]
 [text text="1-5 怪しい通信" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_corridor.png" time="500"]
+
+[freeimage layer=1]
 居住区へ戻る途中、閉鎖された研究通路から声がした。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「予定より早い。接触はまだ危険よ」[p]
+[freeimage layer=1]
 #不明通信
 「……オリジンが……見ている……」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「分かっている。でも、彼が来た」[p]
+[freeimage layer=1]
 彼。俺のことか。[p]
 端末が警報へ切り替わった。[p]
+[freeimage layer=1]
 #美月・通信
 「全員、戦闘配置。ヴォイド反応、第三外壁！」[p]
 *scene_1_6
 [cm]
 [text text="1-6 初陣――ヴォイド・スカウト" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_terminal.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「敵性体、スカウト級。薄い外殻、異常な加速。照準が追いつかない」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「なら面で吹き飛ばす！」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「待て。推進器官が熱を逃がしている。プラズマは散る」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「レール弾も軌道を読まれてる。津田花、さっきから何を見てる？」[p]
+[freeimage layer=1]
 #津田花
 「逃げ方。同じ方向に三回避けた。光が来る直前だけ、外殻を閉じてる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「広域光子爆発なら回避方向を潰せる。フォトンミサイル推奨」[p]
 [call storage="battle.ks" target="*battle_1"]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「敵、無力化。主砲照準開始！」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「充填六十……七十……！」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「目標固定。逃がさない」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「照準誤差、〇・〇〇二」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「津田花、発射承認を」[p]
+[freeimage layer=1]
 #津田花
 「俺が？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「見つけた弱点に、責任を持て」[p]
 [cm]
@@ -441,8 +747,10 @@
 
 #美月
 「一秒待つ」を選ぶと、不明通信「わたしたちは敵ではない」が混線。どちらでも主砲発射へ。[p]
+[freeimage layer=1]
 #津田花
 「主砲、発射！」[p]
+[freeimage layer=1]
 歓声の中で、俺だけが最後の声を聞いていた。[p]
 ――わたしたちは、敵ではない。[p]
 [cm]

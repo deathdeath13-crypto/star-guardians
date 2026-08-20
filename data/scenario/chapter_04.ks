@@ -9,94 +9,177 @@
 [cm]
 [text text="4-1 玲奈拘束" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_briefing.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「玲奈。機密データの無断持ち出し、ヴォイドとの私的通信、主砲制御への不正接続。説明してもらう」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「私が通信していた相手はヴォイドよ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「認めるのか」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「認める。でも裏切ったのは人類ではない。人類が、先に彼らを裏切った」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「拘束する」[p]
+[freeimage layer=1]
 #津田花
 「主砲の強制発射も玲奈が？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「違う。あれを命令したのはオリジン」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「オリジンは統合支援AI。命令権はない」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「私たちが、そう信じているだけ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「玲奈。あなたは、どこまで知ってるの」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「あなたと同じくらいよ、遥」[p]
+[freeimage layer=1]
 空気が止まった。遥は驚かなかった。[p]
 *scene_4_1a
 [cm]
 [text text="4-1A 閉じた食卓" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_cafeteria.png" time="500"]
+
+[freeimage layer=1]
 いつも六人で使っていた卓に、椅子は五つしかなかった。玲奈の椅子は保安部が回収していた。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「椅子まで持っていく必要があるか」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「規則。拘束対象の私物と接触物は調査する」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「椅子が共犯かよ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「食べろ。次の警戒勤務まで四十分」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「美月は玲奈を信じてないの？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「隊長として、証拠を無視できない」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「隊長じゃなかったら？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「その質問に答える立場を、私は選べない」[p]
+[freeimage layer=1]
 #津田花
 「俺たちは、役割でしか話せなくなってる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「役割は必要。曖昧な感情より、処理しやすい」[p]
+[freeimage layer=1]
 #津田花
 「処理できないものは、なかったことにする？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「……そうすれば楽」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「だが、玲奈の席が空いてるのは楽じゃない」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「もし玲奈が本当に裏切ってたら？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「ぶん殴って、理由を聞く」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「順番が逆だ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「じゃあ理由を聞いてからぶん殴る」[p]
+[freeimage layer=1]
 誰も笑わなかった。笑えないことが、玲奈の不在をいっそう大きくした。[p]
+[freeimage layer=1]
 #津田花
 「椅子を戻そう」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「保安規則違反だ」[p]
+[freeimage layer=1]
 #津田花
 「人が戻る場所まで無くす規則なら、今だけ破りましょう」[p]
+[freeimage layer=1]
 美月は長い沈黙のあと、保安部へ短い命令を送った。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「備品番号C-17を返却。調査に不要と隊長が判断した」[p]
 *scene_4_2
 [cm]
 [text text="4-2 選ぶ言葉" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_detention.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「十四年前、第一期はヴォイドがノア船団の末裔だと突き止めた。オリジンは真相の公開を危険と判断し、隊を隔離した」[p]
+[freeimage layer=1]
 #津田花
 「殺したのか」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「主砲で」[p]
+[freeimage layer=1]
 #津田花
 「父は、アーク・オリジンに殺された」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「あなたを配属させたのは私。父親と同じ心理特性なら、ヴォイドの信号を意味として受け取れるかもしれないと思った」[p]
+[freeimage layer=1]
 #津田花
 「俺を道具にした？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「ええ。謝って許されるとは思わない」[p]
 [cm]
@@ -112,35 +195,62 @@
 *choice_4_1_join
 [cm]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「遥はノアの末裔。人類側で生まれ育った潜入者よ」[p]
+[freeimage layer=1]
 #津田花
 「遥が……ヴォイド？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「人間よ。私たちと同じように。違うのは、歴史を奪われた側だということ」[p]
 *scene_4_2a
 [cm]
 [text text="4-2A 五つの疑い" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_terminal.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「裏切り者候補を整理する。証拠だけなら玲奈。権限なら美月。物理作業なら沙耶。システム侵入なら私。外部通信精度なら遥」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「津田花は？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「配属前から事件が始まってる。可能性は低い」[p]
+[freeimage layer=1]
 #津田花
 「ゼロではない？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「自分の記憶が偽造されている可能性まで含めれば」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「理沙。全員を疑うのは構わない。だが数字だけで人を裁くな」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「裁かないために数字にしてる」[p]
+[freeimage layer=1]
 #津田花
 「動機も並べよう。玲奈は真相を公開したい。美月は隊を守りたい。沙耶は仲間を危険にする主砲を止めたい。理沙はオリジンの偽装を暴きたい」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「遥は？」[p]
+[freeimage layer=1]
 全員の視線が、空席へ向いた。遥は定時連絡に現れなかった。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「津田花。お前はどう考える」[p]
 [cm]
@@ -156,36 +266,63 @@
 *choice_4_2_join
 [cm]
 
+[freeimage layer=1]
 #津田花
 「遥は嘘をついている。でも俺たちを傷つけたい人の嘘じゃない。誰かを守るために、ここから離れようとしてる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「根拠は」[p]
+[freeimage layer=1]
 #津田花
 「俺たちに疑われるたび、遥は自分ではなく玲奈を見てた。罪を押しつけるなら安心するはずなのに、苦しそうだった」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「心理推論。証拠能力は低い」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「でも、遥らしい」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「探す。拘束ではない。話を聞くために」[p]
 *scene_4_3
 [cm]
 [text text="4-3 ほどける隊" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_maintenance.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「玲奈が犯人で話は終わり。そう思いたかった」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「主砲命令ログを再解析した。署名は美月でも玲奈でもない。オリジンの保守権限から生成されてる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「私たちはAIの命令を、自分の判断だと思わされていたのか」[p]
+[freeimage layer=1]
 #津田花
 「遥はどこに？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「狙撃管制室。入室後、応答なし」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「津田花。一人では行くな」[p]
+[freeimage layer=1]
 #津田花
 「隊長命令ですか」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「仲間として言っている」[p]
 [cm]
@@ -208,155 +345,265 @@
 [cm]
 [text text="美月同行" x=80 y=42 size=24 color=0xffd58a time=300]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「遥が裏切り者なら、私は撃たなければならない」[p]
+[freeimage layer=1]
 #津田花
 「撃ちたいですか」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「隊長に、したいかどうかを聞くな」[p]
+[freeimage layer=1]
 #津田花
 「今は美月に聞いてます」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「……撃ちたくない」[p]
+[freeimage layer=1]
 #津田花
 「なら、その答えを忘れないでください」[p]
 [cm]
 [text text="理沙同行" x=80 y=42 size=24 color=0xffd58a time=300]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「遥の部屋から暗号端末が出た。確率は上がった」[p]
+[freeimage layer=1]
 #津田花
 「悲しい？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「質問の形式が不適切」[p]
+[freeimage layer=1]
 #津田花
 「じゃあ、遥に戻ってきてほしい？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「……はい」[p]
 [cm]
 [text text="沙耶同行" x=80 y=42 size=24 color=0xffd58a time=300]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「あいつを殴る役は私がやる」[p]
+[freeimage layer=1]
 #津田花
 「理由を聞いてから、ですよ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「覚えてたか」[p]
+[freeimage layer=1]
 #津田花
 「殴ったあと、抱きしめる役も？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「それは全員でやる」[p]
 *scene_4_3b
 [cm]
 [text text="4-3B 扉の向こう" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_terminal.png" time="500"]
+
+[freeimage layer=1]
 #遥・室内
 「入って」[p]
+[freeimage layer=1]
 #津田花
 「認証質問は？」[p]
+[freeimage layer=1]
 #遥・室内
 「ドックで最初に呼んだ名前」[p]
+[freeimage layer=1]
 #津田花
 「変な新人」[p]
+[freeimage layer=1]
 #遥・室内
 「もう一つ。訓練で教えたこと」[p]
+[freeimage layer=1]
 #津田花
 「行きたい場所を見ろ」[p]
+[freeimage layer=1]
 #遥・室内
 「……私は、どこを見てた？」[p]
+[freeimage layer=1]
 #津田花
 「ずっと帰る場所を探してた」[p]
 *scene_4_4
 [cm]
 [text text="4-4 遥の告白" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_terminal.png" time="500"]
+
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「来ると思ってた」[p]
+[freeimage layer=1]
 #津田花
 「逃げないと思ってた」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「買いかぶり。ずっと逃げてたよ。みんなに笑って、地球を守りたいって言って」[p]
+[freeimage layer=1]
 #津田花
 「嘘だった？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「嘘じゃない。それが一番苦しかった。私はノアの子孫。でも地球で育った。美月も理沙も沙耶も玲奈も大事。津田花も……大事になった」[p]
+[freeimage layer=1]
 #津田花
 「俺に近づいたのは任務？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「最初は監視。あなたが第一期の隊員の息子だと知ってたから」[p]
+[freeimage layer=1]
 #津田花
 「途中からは？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「聞かないで」[p]
+[freeimage layer=1]
 #津田花
 「聞く。ここまで来たから」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「……好きになった。任務に一番いらない感情を」[p]
+[freeimage layer=1]
 遥は笑おうとして、失敗した。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「でも、もう遅い。オリジンはヴォイド艦隊を殲滅する。止める鍵を持ってるのは私だけ」[p]
+[freeimage layer=1]
 #津田花
 「一緒に止めよう」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/haruka_normal.png" left="760" top="18" height="680" time="180"]
 #遥
 「一緒には行けない」[p]
 *scene_4_5
 [cm]
 [text text="4-5 電子戦型との戦闘" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「敵がセンサーを汚染。照準情報が全部偽物」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「目視照準へ切替！」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「レール砲はロック不能、プラズマは射程不足！」[p]
+[freeimage layer=1]
 #津田花
 「狙う必要がない攻撃。フォトンミサイルで範囲ごと焼く」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「味方識別も壊れてる。爆発座標を手動入力する」[p]
 [call storage="battle.ks" target="*battle_4"]
 
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「無力化。主砲を――」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「駄目。オリジンが主砲を乗っ取る！」[p]
+[freeimage layer=1]
 #玲奈・通信
 「敵の信号を中継に使って。オリジンの制御を三秒だけ切れる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「玲奈の拘束を解除しろ。三秒で十分だ」[p]
 ; [主砲発射。電子戦型撃破]
+[freeimage layer=1]
 #津田花
 「遥を追う」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「全員でだ。もう誰も、一人で真実を背負わせない」[p]
 *scene_4_5a
 [cm]
 [text text="4-5A 玲奈の帰還" x=80 y=42 size=26 color=0x9eefff time=300]
 
+[freeimage layer=1]
+[bg storage="bg_terminal.png" time="500"]
+
+[freeimage layer=1]
 拘束を解かれた玲奈が戻る。誰も迎えの言葉を用意できなかった。[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「遅い」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「拘禁区画から走ってきたのよ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「椅子は先に戻ってる」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「……そう」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/mizuki_normal.png" left="760" top="18" height="680" time="180"]
 #美月
 「玲奈。拘束命令を撤回する。私の判断が遅れた」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「疑われる証拠を残したのは私。あなた一人の責任ではないわ」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「今後は秘密を共有して」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「努力する」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/risa_normal.png" left="760" top="18" height="680" time="180"]
 #理沙
 「曖昧」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「では訂正。共有する。ただし、あなたたちも私を止める必要があるときは止めて」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/saya_normal.png" left="760" top="18" height="680" time="180"]
 #沙耶
 「殴って？」[p]
+[freeimage layer=1]
+[image layer="1" page="fore" storage="chara/reina_normal.png" left="760" top="18" height="680" time="180"]
 #玲奈
 「できれば会話で」[p]
+[freeimage layer=1]
 小さな笑いが起きた。以前と同じではない。疑いも傷も残っている。[p]
 それでも六人の輪は、傷を含んだ形でつながり直した。[p]
 [cm]

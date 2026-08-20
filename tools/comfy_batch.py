@@ -22,6 +22,7 @@ def main() -> int:
     p.add_argument("--manifest", default="asset_manifest.csv")
     p.add_argument("--queue", default="tools/generation_queue.json")
     p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--all", action="store_true", help="Run every job in the selected queue regardless of manifest status")
     args = p.parse_args()
     root = Path(__file__).resolve().parents[1]
     request_json(args.base_url + "/system_stats")
@@ -30,7 +31,7 @@ def main() -> int:
     with (root / args.manifest).open(encoding="utf-8-sig", newline="") as fh:
         needed = {row["asset_id"] for row in csv.DictReader(fh) if row["status"] == "needed"}
     for job in jobs:
-        if job["asset_id"] not in needed:
+        if not args.all and job["asset_id"] not in needed:
             continue
         workflow = copy.deepcopy(json.loads((root / job["workflow"]).read_text(encoding="utf-8")))
         for node in workflow.values():
